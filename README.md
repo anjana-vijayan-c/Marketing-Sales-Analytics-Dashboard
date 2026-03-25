@@ -24,7 +24,7 @@ It focuses on analyzing marketing effectiveness, customer behavior, and sales pe
 <h2> Dashboards</h2>
 
 <h3>1️ Marketing Campaign Performance Dashboard</h3>
-<img src="marketing_dashboard.png" alt="Marketing Dashboard" width="100%">
+<img src="marketing_campaign_performance_dashboard.png" alt="Marketing Dashboard" width="100%">
 
 <ul>
   <li>Total Ad Spend Analysis</li>
