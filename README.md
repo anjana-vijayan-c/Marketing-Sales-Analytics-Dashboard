@@ -118,7 +118,7 @@ Marketing & Sales Analytics Dashboard (Power BI)
 <h2> About Me</h2>
 <p>
 <b>Anjana C</b><br>
-Aspiring Data Analyst | Power BI • Excel • Data Visualization<br>
+Aspiring Data & Business Analyst | Bridging Data and Business Decisions<br>
 </p>
 
 <hr>
